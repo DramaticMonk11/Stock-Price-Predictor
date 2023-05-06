@@ -1,7 +1,5 @@
-numpy
-pandas
 matplotlib
 pandas_datareader
 tensorflow
 keras
-streamlit
+scikit-learn
